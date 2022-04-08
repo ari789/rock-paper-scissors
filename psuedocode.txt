@@ -1,0 +1,20 @@
+imports
+
+declare counters
+
+print game instructions
+
+define winner function
+	declare return variable
+	if score = answer
+		print appropriate statement
+	return winner
+
+declare loop test variable
+while true
+	get user input
+	get random number
+	get result from winner function
+	increment win counters
+	print win count
+	modify loop test
